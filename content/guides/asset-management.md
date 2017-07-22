@@ -323,7 +323,7 @@ __project__
   |- /node_modules
 ```
 
-With the loader configured and fonts in place, you can use incorporate them via an `@font-face` declaration. The local `url(...)` directive will be picked up by webpack just as it was with the image:
+With the loader configured and fonts in place, you can use and incorporate them via an `@font-face` declaration. The local `url(...)` directive will be picked up by webpack just as it was with the image:
 
 __src/style.css__
 
